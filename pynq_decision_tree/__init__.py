@@ -1,4 +1,4 @@
-from lib import *
+from .lib import *
 from .overlays.decision_tree_3_stages import DecisionTree3StagesOverlay
 
 
