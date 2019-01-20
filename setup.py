@@ -38,7 +38,7 @@ extra_files = package_files('pynq_decision_tree')
 
 
 setup(name='pynq_decision_tree',
-      version='2.1',
+      version='2.4',
       description='PYNQ decision tree package',
       author='Yun Rock Qu',
       author_email='yunq@xilinx.com',
